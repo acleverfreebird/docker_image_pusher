@@ -1,4 +1,4 @@
 nginx
 #支持私库
-xhofe/alist:lastest
+xhofe/alist:latest
 ccr.ccs.tencentyun.com/text-to-speech/chat_tts_api_ui:latest
